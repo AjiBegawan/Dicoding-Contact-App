@@ -5,7 +5,7 @@ Aplikasi web sederhana menggunakan React dan Vite yang dapat mengelola kontak se
 
 ## Screenshots
 
-![Website Aplikasi Kontak](https://github.com/AjiBegawan/?raw=true)
+![Website Aplikasi Kontak](https://github.com/AjiBegawan/Dicoding-Contact-App/blob/main/images/Aplikasi%20Kontak.png/?raw=true)
 
 
 ## Main Features
@@ -24,13 +24,13 @@ Aplikasi web sederhana menggunakan React dan Vite yang dapat mengelola kontak se
 Clone the project
 
 ```bash
-  git clone https://github.com/AjiBegawan/
+  git clone https://github.com/AjiBegawan/Dicoding-Contact-App.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Dicoding
+  cd Dicoding-Contact-App
 ```
 
 Install dependencies
