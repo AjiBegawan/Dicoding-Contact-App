@@ -1,17 +1,16 @@
-# Latihan Membuat Kontak App Sederhana
+# Contact Manager (Latihan Membuat Kontak App Sederhana)
 
-Aplikasi web sederhana menggunakan React dan Vite yang dapat mengelola kontak seperti menambahkan dan menghapus kontak. Proyek ini merupakan latihan dalam kelas **Belajar Membuat Aplikasi Web dengan React**
+A simple web application built with React and Vite which allows users to manage contacts, such as adding and deleting contacts. This project was created as an exercise in the **Belajar Membuat Aplikasi Web dengan React** course.
 
+## Screenshot
 
-## Screenshots
-
-![Website Aplikasi Kontak](https://github.com/AjiBegawan/Dicoding-Contact-App/blob/main/images/Aplikasi%20Kontak.png/?raw=true)
+![Contact App Website](https://github.com/AjiBegawan/Dicoding-Contact-App/blob/main/images/Aplikasi%20Kontak.png/?raw=true)
 
 
 ## Main Features
 
-- Menambahkan Kontak  (Nama dan Tag )
-- Menghapus Kontak
+- A form for adding new contacts (Title and Tag)
+- A form for deleting existing contacts
 ## Tech Stack
 
 **Client:** React
@@ -21,27 +20,18 @@ Aplikasi web sederhana menggunakan React dan Vite yang dapat mengelola kontak se
 
 ## Run Locally
 
-Clone the project
+To get started with the application, clone the repository and install the dependencies:
 
 ```bash
   git clone https://github.com/AjiBegawan/Dicoding-Contact-App.git
-```
 
-Go to the project directory
-
-```bash
   cd Dicoding-Contact-App
-```
 
-Install dependencies
-
-```bash
   npm install 
 ```
 
-Start the server
+Then, start the application with the following command:
 
 ```bash
   npm run dev
 ```
-
